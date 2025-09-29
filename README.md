@@ -1,4 +1,5 @@
-Pré-requisitos
+*Pré-requisitos*
+
 Antes de começar, garanta que os seguintes sistemas estejam instalados em seu computador.
 
 git
