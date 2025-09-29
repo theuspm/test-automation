@@ -1,0 +1,29 @@
+{
+  "validUser": {
+    "firstName": "Matheus",
+    "lastName": "Porfírio",
+    "email": "test.user@example.com",
+    "phone": "(11) 9999-9999",
+    "cpf": "123.456.789-00",
+    "birthday": "1990-01-01",
+    "gender": "Masculino",
+    "address": "Rua Comendador Clementino",
+    "city": "Manaus",
+    "state": "AM",
+    "zipCode": "69025000",
+    "password": "Senha123!",
+    "confirmPassword": "Senha123!"
+  },
+  "invalidEmailUser": {
+    "firstName": "Matheus",
+    "lastName": "Medeiros",
+    "email": "invalidemail.com",
+    "phone": "(11) 9999-9999",
+    "cpf": "123.456.789-00"
+  },
+  "edgeCases": {
+    "emailWithSpecialChars": "matheus.medeiros@gmail.com",
+    "shortPassword": "Abc12!",
+    "spacedText": "  Texto com espaços  "
+  }
+}
